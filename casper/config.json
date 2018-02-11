@@ -1,0 +1,15 @@
+{
+    "location": "Greenwich Royal Borough",
+    "beds": 1,
+    "min_price": 800,
+    "max_price": 1200,
+    "keywords": [
+        "balcony"
+    ],
+    "filters": [
+        {
+            "name": "pets",
+            "value": "true"
+        }
+    ]
+}

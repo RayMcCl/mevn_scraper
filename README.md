@@ -1,0 +1,1 @@
+Simple application built on MEVN stack which runs a scraper Casper task periodically to pull apartment information from popular sites and stores/displays them 
